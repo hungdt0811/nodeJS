@@ -1,0 +1,15 @@
+{
+  "name": "my-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-s1": "nodemon ./Section1/app.js"
+  },
+  "author": "Dang Trong Hung",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
